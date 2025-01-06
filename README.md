@@ -1,4 +1,4 @@
-# Elgato Key Light turn on/off with Zoom
+# Elgato Key Light turn on/off with webcam
 
 Detects camera on/off events and enables/disables Elgato Key Lights on MacOS. May work with other light variants (e.g. Air) but not tested as I don't have any.
 
